@@ -10,7 +10,7 @@ This project lets users enter their birthdate and instantly see their exact age.
 ## Tech Stack
 
 ## Screenshots
-![Age Calculator Screenshot](screenshot.png)
+![Age Calculator Screenshot](resource/screenshot.png)
 
 ## How to Run
 1. Clone this repo
@@ -45,12 +45,9 @@ This project lets users enter their birthdate and instantly see their exact age.
 - JavaScript (ES6)
 
 ## Screenshots
-![Age Calculator Screenshot](screenshot.png)
+---
 
-## How to Run
-1. Clone this repo
-2. Open `index.html` in your browser
-
+> Built for CodeAlpha Internship Portfolio
 ## Live Demo
 [Live Demo](https://your-demo-link.com)
 
