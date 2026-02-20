@@ -100,7 +100,7 @@ button[type="submit"]:focus {
 
 @media (max-width: 500px) {
 	.age-card {
-		padding: 1.2rem 1.9rem;
+		padding: 1.2rem 4.4rem;
 		max-width: 95vw;
 	}
 	h1 {
@@ -111,9 +111,4 @@ button[type="submit"]:focus {
 	}
 }
 
-@media (max-width: 390px) {
-	.age-card {
-		padding: 1.2rem 1.4rem;
-	}
-}
 
