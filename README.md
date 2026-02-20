@@ -56,7 +56,7 @@ The core logic is implemented in `js/script.js` and consists of three main parts
 > Built for CodeAlpha Internship Portfolio
 
 ## Live Demo
-[Live Demo](https://your-demo-link.com)
+[Live Demo](https://codealpha-age-calculator-indol.vercel.app/)
 
 ---
 
