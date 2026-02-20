@@ -110,3 +110,17 @@ button[type="submit"]:focus {
 		font-size: 1rem;
 	}
 }
+
+@media (max-width: 380px) {
+	.age-card {
+		padding: 1.2rem 1.9rem;
+		max-width: 95vw;
+	}
+	h1 {
+		font-size: 1.3rem;
+	}
+	#age-result {
+		font-size: 1rem;
+	}
+}
+
